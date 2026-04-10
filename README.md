@@ -33,3 +33,5 @@ This project represents a case study of AI-assisted development. The entire sour
 1. Download the appropriate `.xll` file for your Excel version (32 or 64-bit) from the [Releases]( https://github.com/FerdinandoBattillocchi/ExcelEnglishBridge/releases )
 2. Drag and drop the file into an open Excel session, or add it permanently via `File > Options > Add-ins`.
 3. Start typing formulas like `=EN_SUM(A1:A10)`.
+---
+**Keywords / Search Tags:** *translate excel functions, excel english formula in italian, excel spanish to english, excel-dna c# example, excel udf custom functions, use EN_VLOOKUP, bypass localized excel formulas, excel language bridge.*
