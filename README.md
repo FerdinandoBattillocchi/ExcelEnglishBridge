@@ -12,9 +12,9 @@ Questo progetto rappresenta un caso studio di sviluppo assistito dall'intelligen
 - **Supporto Moderno:** Pieno supporto alle matrici dinamiche e alle funzioni di Office 365.
 
 ## 🛠️ Installazione
-1. Scarica il file `.xll` adatto alla tua versione di Excel (32 o 64 bit) dalla sezione [Releases](https://github.com/FerdinandoBattillocchi/Excel-English-Bridge/releases).
-2. Trascina il file all'interno di una sessione di Excel aperta o aggiungilo in modo permanente tramite `File > Opzioni > Componenti aggiuntivi`.
-3. Inizia a scrivere formule come `=EN_SUM(A1:A10)`.
+1. Scarica il file `.xll` adatto alla tua versione di Excel (32 o 64 bit) dalla sezione [Releases]( https://github.com/FerdinandoBattillocchi/ExcelEnglishBridge/releases )
+3. Trascina il file all'interno di una sessione di Excel aperta o aggiungilo in modo permanente tramite `File > Opzioni > Componenti aggiuntivi`.
+4. Inizia a scrivere formule come `=EN_SUM(A1:A10)`.
    
 # Excel English Bridge 🚀
 
@@ -30,6 +30,6 @@ This project represents a case study of AI-assisted development. The entire sour
 - **Modern Support:** Full support for dynamic arrays and Office 365 functions.
 
 ## 🛠️ Installation
-1. Download the appropriate `.xll` file for your Excel version (32 or 64-bit) from the [Releases](https://github.com/FerdinandoBattillocchi/Excel-English-Bridge/releases) section.
+1. Download the appropriate `.xll` file for your Excel version (32 or 64-bit) from the ( https://github.com/FerdinandoBattillocchi/ExcelEnglishBridge/releases ) section.
 2. Drag and drop the file into an open Excel session, or add it permanently via `File > Options > Add-ins`.
 3. Start typing formulas like `=EN_SUM(A1:A10)`.
